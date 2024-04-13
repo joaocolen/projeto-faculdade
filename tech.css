@@ -1,0 +1,34 @@
+body{
+    background-color: #122745;
+}
+
+
+
+header > h1{
+    text-align: center;
+    color: #EFBB40;
+    text-decoration: underline;
+}
+
+header > p {
+    color: white;
+    min-width: 400px;
+    max-width: 800px;
+     text-align: justify;
+     margin: auto;
+}
+
+main{
+    width: 400px;
+    height: 800px;
+    margin: auto;
+}
+
+main > img{
+    margin: 10px;
+    box-shadow: 4px 4px 4px 4px rgba(92, 92, 247, 0.164);
+    border-radius: 20px;
+}
+
+
+

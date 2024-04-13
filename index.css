@@ -1,0 +1,80 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Scribble&family=Workbench&display=swap');
+
+
+
+
+body{
+    background-color: rgb(2, 6, 24);
+    margin-left: 25px;
+}
+
+
+header{
+    box-shadow: rgba(1, 40, 98, 0.518) 3px 5px 5px ;
+    background-color: #041821;
+     min-width: 400px;
+     max-width: 1200px;
+     height: 100px;
+     border-radius: 50px 50px 50px 50px ;
+     margin: auto;
+     justify-content: center;
+     align-items: center; 
+     
+}
+
+
+.header{
+    
+    width: 1200px;
+  height: 200px;
+ 
+}
+
+
+
+.header img{
+    height: 120px;
+    width: 120px;
+}
+
+/*nav{
+    margin-top: -16px;
+    background-color: #041821;
+     min-width: 400px;
+     max-width: 1200px;
+     height:40px;
+     border-radius: 0px 0px 30px 30px ; 
+     padding: 10px;
+     
+}*/
+
+/*nav > a {
+    text-decoration: none;
+   color: aliceblue;
+}*/
+
+a:hover{
+    color: black;
+    
+    text-decoration: underline;
+  
+}
+
+
+
+img.capa{
+    margin-top: 15PX;
+    margin-left: 50PX;
+    box-shadow: rgba(1, 40, 98, 0.518) 3px 5px 5px ;
+    border-radius: 25px;
+    width: 300px;
+    height: 500px;
+}
+
+
+
+
+
+

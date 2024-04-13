@@ -1,0 +1,20 @@
+body{
+    background-image: url(imagens/via_lactea.jpg);
+}
+
+header > h1{
+    color: white;
+    text-align: center;
+}
+
+main{
+    margin: auto;
+    width: 400px;
+    height: 800px;
+}
+
+main > img{
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px white;
+}

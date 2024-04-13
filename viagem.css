@@ -1,0 +1,24 @@
+body{
+    background-color: #E66F45;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    width: 400px;
+    height: 800px;
+    margin: auto;
+}
+
+main > img{
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.651)
+}
+
+footer {
+    height: 100px;
+    margin-top: 350px;
+}

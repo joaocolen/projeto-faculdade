@@ -1,0 +1,28 @@
+body{
+    background-color: #1E361E;
+}
+
+header > h1{
+    color: #E4E98F;
+    text-align: center;
+}
+
+header > p {
+    color: white;
+    min-width: 400px;
+    max-width: 800px;
+     text-align: justify;
+     margin: auto;
+}
+
+main{
+    width: 400px;
+    height: 1100px;
+    margin: auto;
+}
+
+main > img{
+    box-shadow: 2px 2px 2px 2px #aad5908b;
+    margin: 10px;
+    border-radius: 15px;
+}

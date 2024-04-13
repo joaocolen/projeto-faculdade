@@ -1,0 +1,24 @@
+body{
+    background-color: #426494;
+}
+
+header > h1{
+    text-align: center;
+}
+
+
+
+main{
+    margin: auto;
+    width: 400px;
+    height: 800px;
+
+}
+
+
+main > img{
+     
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.263)
+}
