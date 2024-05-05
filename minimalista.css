@@ -5,7 +5,10 @@ body{
 
 header{
     border: solid 1px black;
-        background-color: black;
+        background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-doodle-abstrato-desenhado-a-mao_23-2149319083.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1713830400&semt=ais);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
         border-radius: 20px;
         padding: 10px;
         min-width: 300px;
@@ -14,7 +17,9 @@ header{
 }
 
 header > h1{
+    color: white;
     text-align: center;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 main{
