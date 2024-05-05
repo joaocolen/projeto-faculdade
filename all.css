@@ -1,0 +1,267 @@
+body{
+    background-color: rgb(2, 6, 24);
+    margin: 0px;
+    min-width: 400px;
+}
+
+header{
+    max-width: 1200px;
+    min-width: 400px;
+    background-color: #041821;
+    margin: auto;
+    height: 100px;
+    border-radius: 0px 0px 20px 20px;
+    text-align: center;
+    border: solid 1px black;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 10px 0px rgba(175, 170, 170, 0.553);
+    
+    
+}
+header > img{
+    margin: auto;
+    padding: 5px;
+    height: 160px;
+    width: 160px;
+    margin-top: -200px;
+}
+
+
+header > h1{
+    text-decoration: underline;
+    color: white;
+    text-align: left;
+   margin-top: 60px;
+   margin-left: 50px;
+    
+}
+
+
+.outono{
+    background-image: url(https://img.freepik.com/fotos-gratis/visao-das-folhas-de-outono-secas_23-2150719569.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 1015px;
+    border: 2px black solid;
+    text-align: center;
+    background-attachment: fixed;
+    border: solid 2px white;
+ 
+}
+
+.cafe{
+    background-image: url(imagens/cafe.jpg);
+padding: 10px;
+width: 700px;
+height: 813px;
+margin: auto;
+margin-bottom: 50px;
+border-radius: 20px;
+border: 2px black solid;
+text-align: center;
+margin-bottom: 30px;
+background-attachment: fixed;
+border: solid 2px white;
+}
+
+.kids{
+    background-image: url(imagens/imgkids.jpeg);
+    background-size: cover;
+    width: 700px;
+    height: 1223px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-attachment: fixed;
+    border: solid 2px white;
+}
+
+.casamento{
+    background-image: url(imagens/fundo_novas/casamento_fundo.jpg);
+    width: 700px;
+height: 813px;
+margin: auto;
+margin-bottom: 10px;
+margin-bottom: 50px;
+border-radius: 20px;
+border: 2px black solid;
+text-align: center;
+margin-bottom: 30px;
+padding: 10px;
+background-attachment: fixed;
+border: solid 2px white;
+}
+
+.minimalista{
+    background-image: url(imagens/minimalista.png);
+    width: 700px;
+height: 813px;
+margin: auto;
+margin-bottom: 50px;
+border-radius: 20px;
+border: 2px black solid;
+text-align: center;
+margin-bottom: 30px;
+padding: 10px;
+background-attachment: fixed;
+border: solid 2px white;
+}
+
+.natal{
+    background-image: url(imagens/fundo_novas/fundo_natal.jpg);
+    background-position: center;
+    width: 700px;
+    height: 813px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.naturais{
+    background-image: url(imagens/natural.jpeg);
+    background-position: center;
+    width: 700px;
+    height: 1017px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.espaco{
+    background-image: url(imagens/fundo_universo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 813px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.tech{
+    background-image: url(imagens/tech.png);
+    width: 700px;
+    height: 813px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.travel{
+    background-image: url(https://blog.getmalas.com.br/wp-content/uploads/2016/10/viagem-internacional-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 700px;
+    height: 1015px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.urban{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/OlindaGraffiti.jpg/800px-OlindaGraffiti.jpg);
+    background-position: center;
+    width: 700px;
+    height: 1015px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.summer{
+    background-image: url(imagens/summer.jpeg);
+    background-position: center;
+    width: 700px;
+    height: 813px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.vintage{
+    background-image: url(imagens/vintage.jpeg);
+    background-position: center;
+    width: 700px;
+    height: 1015px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.inverno{
+    background-image: url(imagens/fundo_inverno.jpeg);
+    background-position: center;
+    width: 700px;
+    height: 1015px;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black solid;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: solid 2px white;
+}
+
+.doce{
+    width: 700px;
+    height: 813px;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    background-image: url(https://st.depositphotos.com/2885805/4693/v/950/depositphotos_46938793-stock-illustration-chocolate-sweets-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+}

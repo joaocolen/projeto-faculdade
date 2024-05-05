@@ -1,5 +1,19 @@
 body{
-    background-color: #426494;
+    background-image: url(imagens/fundo_inverno.jpeg);
+    background-size: cover;
+}
+
+header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunTTk3u8chYvMFfOLOlu-SgwNSjP6NDmM_WRncGCmxCToSQ5XcA6qBkGqp2jLZzRCCqc&usqp=CAU);
+    background-size: cover;
+    background-position: center;
+    border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
 }
 
 header > h1{
@@ -21,4 +35,9 @@ main > img{
     margin: 5px;
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.263)
+}
+
+footer{
+    margin-top: 300px;
+    background-color: red;
 }

@@ -1,5 +1,16 @@
 body{
     background-image: url(imagens/minimalista.png);
+    background-size: cover;
+}
+
+header{
+    border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
 }
 
 header > h1{

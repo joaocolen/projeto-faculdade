@@ -1,13 +1,29 @@
 body{
     background-image: url(imagens/tech.png);
+    background-size: cover;
 }
 
-
+header{
+    border: solid 1px black;
+ 
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.559);
+}
 
 header > h1{
     text-align: center;
     color: #EFBB40;
     text-decoration: underline;
+}
+
+header{
+    background-image: url(https://www.designi.com.br/images/preview/10827235.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 header > p {
@@ -28,6 +44,10 @@ main > img{
     margin: 10px;
     box-shadow: 4px 4px 4px 4px rgba(92, 92, 247, 0.164);
     border-radius: 20px;
+}
+
+footer{
+    margin-top: 100px;
 }
 
 

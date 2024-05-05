@@ -1,5 +1,20 @@
 body{
     background-image: url(imagens/summer.jpeg);
+    background-size: cover;
+    }
+
+    header{
+        background-image: url(https://img.freepik.com/fotos-premium/ilustracao-de-fundo-de-verao_863013-60036.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top left;
+        border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
     }
     
     header > h1 {

@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://st.depositphotos.com/2885805/4693/v/950/depositphotos_46938793-stock-illustration-chocolate-sweets-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+header{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-dia-mundial-do-chocolate-plano-com-doces-de-chocolate_23-2149430829.jpg);
+    background-position:center left ;
+   
+    border: solid 1px black;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    min-width: 300px;
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    text-shadow: 1.5px 1.5px 1.5px rgb(0, 0, 0);
+    color: white;
+}
+
+main{
+    margin: auto;
+    width: 400px;
+    height: 800px;
+
+}
+
+main > img{
+    margin: auto;
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 2px 9px 0px rgba(255, 255, 255, 0.081); 
+}
+
+footer{
+    margin-top: 50px;
+}

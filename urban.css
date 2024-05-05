@@ -1,5 +1,20 @@
-body{
-background-image: url(imagens/urban.jpeg)
+    body{
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/OlindaGraffiti.jpg/800px-OlindaGraffiti.jpg);
+        background-size: cover;
+     background-repeat: no-repeat;
+    }
+
+header{
+    background-image: url(https://img.freepik.com/fotos-premium/lata-de-spray-e-tinta-pronta-para-a-proxima-peca-de-arte-de-graffiti-criada-com-ia-generativa_124507-182270.jpg);
+    background-position: top left;
+    border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+      
 }
 
 header > h1{
@@ -9,7 +24,7 @@ header > h1{
 
 main{
     width: 400px;
-    height: 800px;
+    height: 1200px;
     margin: auto;
 }
 

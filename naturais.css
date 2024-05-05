@@ -1,14 +1,32 @@
 body{
     background-image: url(imagens/natural.jpeg);
+    background-size: cover;
+}
 
+header{
+    border: solid 1px black;
+     
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+}
+
+header{
+    background-image: url(https://img.freepik.com/fotos-gratis/vista-superior-conceito-botanico-com-espaco-de-copia_23-2148535932.jpg);
+    background-position: bottom left;
+    box-shadow: 4px 4px 10px rgb(0, 0, 0);
+    margin-bottom: 5px;
+}
 
 header > h1{
-    color: #E4E98F;
+    color: #283618;
     text-align: center;
 }
 
 header > p {
-    color: white;
+    color: #283618;
     min-width: 400px;
     max-width: 800px;
      text-align: justify;
@@ -22,7 +40,12 @@ main{
 }
 
 main > img{
-    box-shadow: 2px 2px 2px 2px #aad5908b;
+    margin: 1px solid black;
+    box-shadow: 2px 2px 8px  #000000;
     margin: 10px;
     border-radius: 15px;
+}
+
+footer{
+    margin-top: 100px;
 }

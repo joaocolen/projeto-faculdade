@@ -1,6 +1,24 @@
 body{
-    background-image: url(imagens/via_lactea.jpg);
+    background-image: url(https://i.pinimg.com/originals/64/e5/67/64e5670c1776966ac043074b83dfbf04.jpg);
+    background-size: cover;
+    background-position: bottom center;
 }
+
+    header{
+        border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+    header{
+        background-image: url(https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg);
+        background-position: center right;
+    }
 
 header > h1{
     color: white;
@@ -8,6 +26,8 @@ header > h1{
 }
 
 main{
+    
+    
     margin: auto;
     width: 400px;
     height: 800px;
@@ -16,5 +36,9 @@ main{
 main > img{
     margin: 5px;
     border-radius: 20px;
-    box-shadow: 2px 2px 2px white;
+    box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.474);
+}
+
+footer{
+    margin-top: 100px;
 }

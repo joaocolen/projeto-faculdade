@@ -1,8 +1,5 @@
 
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Scribble&family=Workbench&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Jaro:opsz@6..72&family=Jersey+25+Charted&display=swap' );
 
 
 body{
@@ -10,58 +7,39 @@ body{
     margin-left: 25px;
 }
 
-
 header{
-    box-shadow: rgba(1, 40, 98, 0.518) 3px 5px 5px ;
+    max-width: 1200px;
+    min-width: 400px;
     background-color: #041821;
-     min-width: 400px;
-     max-width: 1200px;
-     height: 100px;
-     border-radius: 50px 50px 50px 50px ;
-     margin: auto;
-     justify-content: center;
-     align-items: center; 
-     
-}
-
-
-.header{
+    margin: auto;
+    height: 100px;
+    border-radius: 0px 0px 20px 20px;
+    text-align: center;
+    border: solid 1px black;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 10px 0px rgba(175, 170, 170, 0.553);
     
-    width: 1200px;
-  height: 200px;
- 
-}
-
-
-
-.header img{
-    height: 120px;
-    width: 120px;
-}
-
-/*nav{
-    margin-top: -16px;
-    background-color: #041821;
-     min-width: 400px;
-     max-width: 1200px;
-     height:40px;
-     border-radius: 0px 0px 30px 30px ; 
-     padding: 10px;
-     
-}*/
-
-/*nav > a {
-    text-decoration: none;
-   color: aliceblue;
-}*/
-
-a:hover{
-    color: black;
     
-    text-decoration: underline;
-  
+}
+header > img{
+    margin: auto;
+    padding: 5px;
+    height: 3cm;
+    width: 3cm;
+    margin-top: -330px;
+    margin-bottom: 20px;
 }
 
+
+header > h1{
+    font-family: "Dancing Script";
+    color: white;
+    text-align: left;
+   margin-top: 60px;
+   margin-left: 20px;
+   font-size: 25px;
+    
+}
 
 
 img.capa{

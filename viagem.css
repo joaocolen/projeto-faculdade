@@ -1,11 +1,24 @@
 body{
-    background-color: #E66F45;
+    background-image: url(https://blog.getmalas.com.br/wp-content/uploads/2016/10/viagem-internacional-1.jpg);
+    background-size: cover;
 }
+
+    
+
 
 header{
+    background-image: url(https://korntraducoes.com.br/wp-content/uploads/2016/09/seguro-viagem-viajar-exterior-1024x768.jpeg);
+    background-size: cover;
+    background-position: center bottom;
     text-align: center;
+    border: solid 1px black;
+    border-radius: 20px;
+    padding: 10px;
+    min-width: 300px;
+    max-width: 900px;
+    margin: auto;
+   
 }
-
 main{
     width: 400px;
     height: 800px;

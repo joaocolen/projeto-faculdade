@@ -1,12 +1,31 @@
 body{
     background-image: url(imagens/imgkids.jpeg);
+    background-size: cover;
 }
 
-header > h1{
-    text-align: center;
-    color: #FF4E44;
-    text-decoration: underline;
+header{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.634);
+    background-image: url(imagens/backgroundkidns.jpg);
+    border: solid 1px black;
+        background-color: black;
+        border-radius: 20px;
+        padding: 10px;
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
 }
+
+p{
+    color: black;
+}
+
+h1{
+    text-decoration: underline;
+    color: black;
+    text-align: center
+}
+
+
 
 
 main{
@@ -16,14 +35,14 @@ main{
 }
 
 main > img{
-    box-shadow: 2px 2px 2px 2px rgba(168, 102, 114, 0.432);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.553);
     margin: 10px;
     border-radius: 15px;
 }
 
-header > p{
-    min-width: 400px;
-    max-width: 800px;
-     text-align: justify;
-     margin: auto;
- }
+footer > img{
+    height: 10px;
+    width: 10px;
+}
+
+
